@@ -1,0 +1,22 @@
+{
+  "name": "vaintopia",
+  "version": "1.0.0",
+  "description": "Simulated political/economical nation in a Node environment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanMGocan/vaintopia-prototype.git"
+  },
+  "author": "Dan Gocan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanMGocan/vaintopia-prototype/issues"
+  },
+  "homepage": "https://github.com/DanMGocan/vaintopia-prototype#readme",
+  "dependencies": {
+    "morgan": "^1.10.0"
+  }
+}
